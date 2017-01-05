@@ -1,27 +1,22 @@
-# NPuzzle-AI
+# Puzzle
 
-An N-Puzzle game AI written in javascript.
+AI version of the puzzle(5*5) game.
 
 ## Demo
 
-![image loading...](img/demo.gif)
+![](img/demo.gif)
 
-## Algorithm Reference
+## Build & Run
 
-[Github: DataStructureAndAlgorithm](https://github.com/chuyangLiu/DataStructureAndAlgorithm)
+1. Clone this repo.
+2. Double click the `index.html` file.
+3. Enjoy it in your browser!
+
+## Reference
+
+* [中文博客](http://blog.csdn.net/qq_22885773/article/details/53897652)
+* [GitHub - stevennL/AlgorithmLibrary](https://github.com/stevennL/AlgorithmLibrary)
 
 ## License
 
-Copyright 2016 ChuyangLiu
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+See the [LICENSE](./LICENSE) file for license rights and limitations.
